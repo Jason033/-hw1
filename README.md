@@ -15,19 +15,23 @@ https://github.com/user-attachments/assets/493391d9-55be-4e9c-ae8c-bfb3f92af092
 
 # -mutiple linear regression
 提出問題
-
-![image](https://github.com/user-attachments/assets/7e3cd57c-3858-42a6-a4bb-21491fee2890)
-![image](https://github.com/user-attachments/assets/eb7d7d26-4565-43c1-a6c8-e5bd0ea4dad7)
-![image](https://github.com/user-attachments/assets/82655505-4ddf-4524-96f6-4afd47b6d658)
-![image](https://github.com/user-attachments/assets/8de6741a-e332-4473-a2d5-784eec58c9a5)
-![image](https://github.com/user-attachments/assets/9c0154a8-fb4d-4888-858e-117369abfc9c)
-![image](https://github.com/user-attachments/assets/8cc18723-f912-4987-aae5-06a148aec75c)
-![image](https://github.com/user-attachments/assets/208618d1-0947-4cb8-abe2-c9dc3525ff4c)
+![image](https://github.com/user-attachments/assets/b51ea990-0242-40a2-bf06-93030980c77a)
+![image](https://github.com/user-attachments/assets/3806e211-46be-40eb-b6cc-073eca4d4ab1)
+![image](https://github.com/user-attachments/assets/5a0997ed-87de-4e59-8271-49f6554d38cd)
+![image](https://github.com/user-attachments/assets/d2513fe5-a5fe-475a-a9ae-52377eacab86)
+![image](https://github.com/user-attachments/assets/098ab4ad-fed6-49a7-9857-600f341153e6)
+![image](https://github.com/user-attachments/assets/ac73fe60-b233-4504-b43d-1bf23b6cf265)
+![image](https://github.com/user-attachments/assets/bd51f97f-c447-487a-bf04-7d0afea4e6df)
+![image](https://github.com/user-attachments/assets/5fccaa77-5946-48e4-95c3-ac0cb2ce0b68)
+![image](https://github.com/user-attachments/assets/05800fac-163c-45c1-99f4-a9f7bf4cd824)
+模型Evaluation
+![image](https://github.com/user-attachments/assets/c47b5a9f-338c-4aa5-b7cb-0081f29d4b14)
 
 成果
-https://github.com/user-attachments/assets/5517e6fd-a731-4c10-95d6-4d04795d8c9f
+![image](https://github.com/user-attachments/assets/126f91ff-447e-4137-9f1c-8814c93765a6)
+![image](https://github.com/user-attachments/assets/43a16dab-c9ff-4289-ada3-08ed14bfdacc)
+![image](https://github.com/user-attachments/assets/3ce9a434-a635-47c5-87d9-2d01fc317863)
 
-# -auto regression
 
 
 
